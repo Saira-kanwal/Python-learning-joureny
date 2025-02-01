@@ -15,13 +15,19 @@
 [15- Extensions](#15--install-extensions)
 
 ## 1- Headings
+
 How to give headings in markdown files?
 
 # Heading 1
+
 ## Heading 2
+
 ### Heading 3
+
 #### Heading 4
+
 ##### Heading 5
+
 ###### Heading 6
 
 ## 2- Block of words
@@ -30,21 +36,18 @@ How to give headings in markdown files?
 >
 > Another line .....
 
-
 ## 3- Combine two things
 
 > ### Heading with block
 
-
-## 4- Line Break 
+## 4- Line Break
 
 " We can use  for a backSlash \
  line break "
 
-
 ## 5- Face of Text
 
-*Italic* 
+*Italic*
 
 **Bold**
 
@@ -52,12 +55,11 @@ How to give headings in markdown files?
 
 " OR We can use underscor "
 
-_Italic_
+*Italic*
 
-__Bold__
+**Bold**
 
-___Bold and italic___
-
+***Bold and italic***
 
 ## 6- Bullets or Lists
 
@@ -84,7 +86,7 @@ This is line two
 
 [Learn Markdown](https://www.youtube.com/watch?v=qJqAXjz-Rh4&list=PL9XvIvvVL50Fba7psesg6ynQXdipw-yoN&index=11&ab_channel=Codanics)
 
->To reuse one link many times make Key 
+>To reuse one link many times make Key
 
 [Learn Markdown]:https://www.youtube.com/watch?v=qJqAXjz-Rh4&list=PL9XvIvvVL50Fba7psesg6ynQXdipw-yoN&index=11&ab_channel=Codanics
 
@@ -116,7 +118,8 @@ For adding single line of code use backTicks...
 
 For adding block of code use tripple backTicks
 
-```python
+```
+python
 a = 20
 b = 30
 c = a + b
